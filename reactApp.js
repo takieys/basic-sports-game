@@ -87,7 +87,7 @@ function App(props) {
     name: "Russiaville Raccoons",
     logoSrc: "./assets/images/raccoon.jfif",
   };
-  const Squirrels = {
+  const squirrels = {
     name: "Sheridan Squirrels",
     logoSrc: "./assets/images/squirrel.jfif",
   };
